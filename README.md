@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**SEO specialist at Rossmann. Content and automation nerd. I build open-source tools for people who work with search.**
+**SEO specialist. Content and automation nerd. I build open-source tools for people who work with search.**
 
 [Blog](https://piotrowskiadam.pl) · [LinkedIn](https://www.linkedin.com/in/adam-piotrowski/) · [Ko-fi](https://ko-fi.com/B5Z022ZL32)
 
@@ -14,7 +14,7 @@
 
 ## Hi, I'm Adam
 
-I have spent the last six years in SEO, currently at **Rossmann**, where I work at the intersection of search, content, and automation. My day-to-day is technical SEO, content strategy, and building workflows with **Make.com, n8n, and APIs** so the repetitive parts take care of themselves.
+I have spent the last six years in SEO, working at the intersection of search, content, and automation. My day-to-day is technical SEO, content strategy, and building workflows with **Make.com, n8n, and APIs** so the repetitive parts take care of themselves.
 
 Away from the spreadsheet, I build the tools I miss: native apps, browser extensions, and small utilities that make SEO and everyday workflows faster, calmer, and more local-first. Most of them are open source, and all of them are things I actually use.
 
