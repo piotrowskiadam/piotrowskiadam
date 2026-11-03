@@ -48,13 +48,6 @@ Away from the spreadsheet, I build the tools I miss: native apps, browser extens
 
 Technical SEO · content strategy · marketing automation · AI-assisted workflows
 
-## Writing
-
-I write about search, AI, and the craft of building useful things.
-
-- [Google AI Mode kontra Perplexity: ocena wyników](https://piotrowskiadam.pl/google-ai-mode-kontra-perplexity-ocena-wynikow/)
-- [All posts on piotrowskiadam.pl](https://piotrowskiadam.pl)
-
 ## GitHub, lately
 
 <div align="center">
