@@ -24,7 +24,7 @@ Away from the spreadsheet, I build the tools I miss: native apps, browser extens
 | --- | --- | --- |
 | **[Tadpole](https://github.com/piotrowskiadam/Tadpole)** | Native desktop SEO crawler and site auditor: local crawls, schema checks, internal-link diagnostics, and clean Markdown exports. | Rust · GTK4 · Libadwaita |
 | **[Souffleur](https://github.com/piotrowskiadam/souffleur)** | Keyboard-first prompt library for Chrome and Firefox. Save prompts, open a Spotlight-style overlay, and copy without leaving the conversation. | JavaScript · WebExtensions |
-| **[Purple Haze](https://github.com/piotrowskiadam/Purple-Haze-Ghost-Theme)** | Dark Ghost theme for long reads, with a sticky table of contents and purple accents. It powers this blog. | Ghost · CSS · JavaScript |
+| **[Purple Haze](https://github.com/piotrowskiadam/Purple-Haze-Ghost-Theme)** | Dark Ghost theme for long reads, with a sticky table of contents and purple accents. | Ghost · CSS · JavaScript |
 | **[Charlie · repertuar](https://github.com/piotrowskiadam/kino-charlie-android)** | Unofficial, offline-first Android app for the Kino Charlie repertoire in Łódź. Pick a film, check the screening room, then head to the box office. | Kotlin · Jetpack Compose · Material 3 |
 | **[Spring Countdown](https://github.com/piotrowskiadam/spring-countdown)** | GNOME Shell desktop widget and top-bar indicator counting down the weeks, days, or Mondays until spring. | JavaScript · GJS · GNOME Shell |
 
