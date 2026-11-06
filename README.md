@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-projects-v2.svg" alt="Adam Piotrowski - SEO, content and automation" width="100%" />
+  <img src="assets/banner-projects-v3.svg" alt="Adam Piotrowski - SEO, content and automation" width="100%" />
 </div>
 
 <div align="center">
